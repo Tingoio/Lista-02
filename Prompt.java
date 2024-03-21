@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-//Att
+//Att2
 /**
  * Um classe utilitária para imprimir e ler textos, números inteiros e decimais
  * no prompt de comandos.
